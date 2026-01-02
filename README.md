@@ -10,7 +10,8 @@ The trophy updates automatically every day using **GitHub Actions**.
 - SVG graphics  
 
 ### 📄 Output Preview
-![AR Trophy](./trophy.svg?v=1)
+![AR Trophy](./trophy.svg?v=2)
+
 
 
 
