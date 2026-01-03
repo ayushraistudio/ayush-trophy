@@ -34,19 +34,19 @@
     <g transform="translate(50, 90)">
       <rect x="0" y="0" width="160" height="110" rx="10" fill="rgba(0,0,0,0.3)" stroke="#00ffcc" stroke-width="2"/>
       <text x="80" y="35" text-anchor="middle" class="stat-label" fill="#00ffcc">Active Days</text>
-      <text x="80" y="80" text-anchor="middle" class="stat-number fade-in">98</text>
+      <text x="80" y="80" text-anchor="middle" class="stat-number fade-in">50</text>
     </g>
 
     <g transform="translate(290, 80)">
       <rect class="pulse" x="0" y="0" width="220" height="130" rx="12" fill="rgba(0,0,0,0.5)" stroke="#ff00cc" stroke-width="3" filter="url(#glow)"/>
       <text x="110" y="40" text-anchor="middle" class="stat-label" fill="#ff00cc">Contributions</text>
-      <text x="110" y="90" text-anchor="middle" class="stat-number fade-in" style="font-size: 50px;">801</text>
+      <text x="110" y="90" text-anchor="middle" class="stat-number fade-in" style="font-size: 50px;">341</text>
     </g>
 
     <g transform="translate(590, 90)">
       <rect x="0" y="0" width="160" height="110" rx="10" fill="rgba(0,0,0,0.3)" stroke="#ff5e00" stroke-width="2"/>
       <text x="80" y="35" text-anchor="middle" class="stat-label" fill="#ff5e00">Current Streak</text>
-      <text x="80" y="80" text-anchor="middle" class="stat-number fade-in">81 </text>
+      <text x="80" y="80" text-anchor="middle" class="stat-number fade-in">14 </text>
     </g>
 
   </svg>
