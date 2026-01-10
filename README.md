@@ -46,6 +46,26 @@ A classy, premium look for a standout profile.
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=gold)](https://github.com/ayushraistudio/github-contribution-showcase)
 ```
+---
+
+### 4. 🌸 Midnight Sakura
+An elegant dark theme with soft pink accents.
+
+![Sakura Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=sakura)
+
+```markdown
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=sakura)](https://github.com/ayushraistudio/github-contribution-showcase)
+```
+---
+
+### 5. 📟 Matrix Hacker
+Classic terminal look for the true coding vibe.
+
+![Matrix Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=matrix)
+
+```markdown
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=matrix)](https://github.com/ayushraistudio/github-contribution-showcase)
+```
 
 ## 🚀 Why use this API?
 - **Live Updates:** No manual updates required. Every time someone visits your profile, they see your freshest stats!
@@ -67,6 +87,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 <p align="center">Made with ❤️ by <a href="https://github.com/ayushraistudio">Ayush Rai</a></p>
+
 
 
 
