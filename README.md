@@ -96,10 +96,11 @@ node src/generateTrophy.js
     <b>Select Theme:</b> 
     <a href="https://personal-trophy.vercel.app/api?username=tshivam2007&theme=neon">Neon</a> • 
     <a href="https://personal-trophy.vercel.app/api?username=tshivam2007&theme=cyberpunk">Cyberpunk</a> • 
-    <a href="https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=gold">Luxury Gold</a>
+    <a href="https://personal-trophy.vercel.app/api?username=tshivam2007&theme=gold">Luxury Gold</a>
   </p>
 
 </div>
+
 
 
 
