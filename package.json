@@ -1,15 +1,15 @@
 {
-  "name": "github-trophy",
+  "name": "github-trophy-showcase",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Dynamic GitHub Trophy Generator API",
+  "main": "api/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
