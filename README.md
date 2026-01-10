@@ -5,7 +5,7 @@ Give your GitHub profile a premium look with dynamic, high-performance trophies!
 [![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ayushraistudio/github-contribution-showcase)
 [![](https://img.shields.io/badge/Maintained%20with-Vercel-black?logo=vercel)](https://vercel.com)
 [![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ayushraistudio/github-contribution-showcase/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/ayushraistudio/github-contribution-showcase/blob/main/CONTRIBUTING.md)
+[![](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/ayushraistudio/github-contribution-showcase/blob/main/CONTRIBUTING.MD)
 
 
 ---
@@ -67,4 +67,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 <p align="center">Made with ❤️ by <a href="https://github.com/ayushraistudio">Ayush Rai</a></p>
+
 
