@@ -19,7 +19,7 @@ Choose your favorite design and copy the code below to paste it into your **Prof
 ### 1. 🟢 Neon Glassmorphism (Default)
 The classic glowing look with smooth animations.
 
-![Neon Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon)
+![Neon Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon&v=1)
 
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
@@ -31,7 +31,7 @@ The classic glowing look with smooth animations.
 ### 2. 🟣 Cyberpunk 2077
 High-contrast, futuristic design for the tech enthusiasts.
 
-![Cyberpunk Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=cyberpunk)
+![Cyberpunk Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=cyberpunk&v=1)
 
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=cyberpunk)](https://github.com/ayushraistudio/github-contribution-showcase)
@@ -42,7 +42,7 @@ High-contrast, futuristic design for the tech enthusiasts.
 ### 3. 🟡 Luxury Gold
 A classy, premium look for a standout profile.
 
-![Gold Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=gold)
+![Gold Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=gold&v=1)
 
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=gold)](https://github.com/ayushraistudio/github-contribution-showcase)
@@ -52,7 +52,7 @@ A classy, premium look for a standout profile.
 ### 4. 🌸 Midnight Sakura
 An elegant dark theme with soft pink accents.
 
-![Sakura Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=sakura)
+![Sakura Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=sakura&v=1)
 
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=sakura)](https://github.com/ayushraistudio/github-contribution-showcase)
@@ -62,7 +62,7 @@ An elegant dark theme with soft pink accents.
 ### 5. 📟 Matrix Hacker
 Classic terminal look for the true coding vibe.
 
-![Matrix Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=matrix)
+![Matrix Preview](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=matrix&v=1)
 
 ```markdown
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=matrix)](https://github.com/ayushraistudio/github-contribution-showcase)
@@ -88,6 +88,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 <p align="center">Made with ❤️ by <a href="https://github.com/ayushraistudio">Ayush Rai</a></p>
+
 
 
 
